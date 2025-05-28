@@ -26,7 +26,8 @@ channels_config = {
     "ichancy_Bot_Dragon": {
         "username": "ichancy_Bot_Dragon",
         "regex": r"الكود:\s*([a-zA-Z0-9]+)",
-        "bot": "@ichancy_dragon_bot"
+        "bot": "@ichancy_dragon_bot",
+        "pick_third": True
     },
     "basel2255": {
         "username": "basel2255",
